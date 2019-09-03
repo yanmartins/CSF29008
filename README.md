@@ -13,12 +13,12 @@ Repositório para uso na disciplina de Comunicação Sem Fio (CSF29008) do curso
 Transmissão e recepção de uma imagem por um canal.
 
 - mario.png (Este arquivo de imagem é necessário para o programa abaixo)
-- [enviando_imagem.m](https://github.com/yanmartins/CSF29008/blob/master/enviando_imagem.m))
+- [enviando_imagem.m](https://github.com/yanmartins/CSF29008/blob/master/enviando_imagem.m)
 
 ### 03/set/2019
 
 Transmissão e recepção de uma imagem por um canal, a fim de observar os tipos de erros gerados pelo canal.
 
 - mario.png (Este arquivo de imagem é necessário para os programas abaixo)
-- [enviando_imagem.m](https://github.com/yanmartins/CSF29008/blob/master/enviando_imagem.m))
+- [enviando_imagem.m](https://github.com/yanmartins/CSF29008/blob/master/enviando_imagem.m)
 - [tx_rx_image_erros_ric.m](https://github.com/yanmartins/CSF29008/blob/master/tx_rx_image_erros_ric.m)
