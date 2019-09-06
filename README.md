@@ -25,7 +25,7 @@ Transmissão e recepção de uma imagem por um canal, a fim de observar os tipos
 
 ### 06/set/2019
 
-Resolução de exercícios do livro
+Resolução de exercício do livro, questão 4.25, página 121, Comunicações Sem Fio (Rappaport)
 
 - [ex_4_5.m](https://github.com/yanmartins/CSF29008/blob/master/ex_4_5.m)
 
