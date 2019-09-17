@@ -3,14 +3,14 @@ close all
 clc
 %clear hRicChan hMultipathGain;
 %release(hRayChan);
-sampleRate500KHz = 5000e3;    % Sample rate of 500K Hz
-sampleRate20KHz  = 20e3;     % Sample rate of 20K Hz
-maxDopplerShift  = 3;      % Maximum Doppler shift of diffuse components (Hz)
+sampleRate500KHz = 5000e3;      % Sample rate of 500K Hz
+sampleRate20KHz  = 20e3;        % Sample rate of 20K Hz
+maxDopplerShift  = 3;           % Maximum Doppler shift of diffuse components (Hz)
 %delayVector = (0:5:15)*1e-6; % Discrete delays of four-path channel (s)
 %gainVector  = [0 -3 -6 -9];
 delayVector = (0:5:15)*1e-6; % Discrete delays of four-path channel (s)
 gainVector  = [0 -30 -20 -20];
-SNR = 2000;
+SNR = 20;   % ruído
 bitsPerFrame = 1000;
 hRayChan = comm.RayleighChannel( ...
     'SampleRate',          sampleRate500KHz, ...
