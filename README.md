@@ -6,14 +6,16 @@ Repositório para uso na disciplina de Comunicação Sem Fio (CSF29008) do curso
 
 # Aulas
 
-## SETEMBRO
+## AGOSTO
 
 ### 30/ago/2019
 
 Transmissão e recepção de uma imagem por um canal.
 
-- mario.png (Este arquivo de imagem é necessário para o programa abaixo)
+- [mario.png](https://github.com/yanmartins/CSF29008/blob/master/mario.png) (Este arquivo de imagem é necessário para o programa abaixo)
 - [enviando_imagem.m](https://github.com/yanmartins/CSF29008/blob/master/enviando_imagem.m)
+
+## SETEMBRO
 
 ### 03/set/2019
 
