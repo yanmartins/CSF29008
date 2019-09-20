@@ -45,3 +45,10 @@ Técnincas de diversidade. A diversidade estabiliza o link, realiza-se uma combi
 
 - [diversidade_link.m](https://github.com/yanmartins/CSF29008/blob/master/diversidade_link.m)
 
+
+## 20/set/2019
+
+Técnincas de diversidade. Seleção de antenas.
+
+-[diversidade_selecao_antenas.m](https://github.com/yanmartins/CSF29008/blob/master/diversidade_selecao_antenas.m)
+
